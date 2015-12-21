@@ -9,13 +9,13 @@ By default, the pattern is `test`.
 Make sure you have Ruby 2.2.3 installed.
 
 ## Setup
-`git clone git@github.com:mlensment/flebot-example.git`  
+`git clone git@github.com:mlensment/flebot-example.git && cd flebot-example`  
 `gem install bundler`  
 `bundle`
 
 Open `flebot.rb` and configure username, password and the pattern you want to match.
 
-## Testing
+## Usage
 Execute the script:
 `./flebot.rb`
 
